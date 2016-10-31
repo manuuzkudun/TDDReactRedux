@@ -1,6 +1,6 @@
-#DDReactRedux#
-A simple ####React-Redux#### app to post comments developed using Test Driven Development.
-Testing was done using ####mocha#### and ####chai####.
+#TDDReactRedux#
+A simple **React-Redux** app to post comments developed using Test Driven Development.
+Testing was done using **mocha**and **chai**.
 
 ####installation Instructions####
 ```
